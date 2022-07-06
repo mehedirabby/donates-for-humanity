@@ -1,22 +1,25 @@
-
-
-
-
 .background-image{
 
     
-    background-image: url(images/Donations001.jpg);
+    background-image: url(images/Donations001.jpg) ;
     
     width: 100%;
+    height: 750px;
     
    background-size: 100% 130%;
     background-repeat: no-repeat;
     
-   
+  
 
     text-align: center;
    
 
+}
+#topper-io{
+    padding-top: 5%;
+}
+#area-are{
+    color: black;
 }
 body{
     font-family: 'Nunito', sans-serif;
@@ -26,22 +29,34 @@ h2{
 }
 h1{
     font-size: 60px;
-    color: white;
+    color: whitesmoke;
    
 }
+h4{
+    font-size: 30px;
+    color: aliceblue;
+}
+.btn-color{
 
+    color: aliceblue;
+}
 .box-office
 {
     text-align: center;
     display: flex;
     font-size: 20px;
-    padding-left: 35%;
-    padding-right: 35%;
+    padding-left: 30%;
+    padding-right: 30%;
    
    
    
     justify-content: space-evenly;
  
+}
+.experience-area{
+
+margin-top: 5%;
+
 }
 .border-line{
     border: rgb(128, 128, 128) solid 5px;
@@ -72,27 +87,52 @@ h1{
 
 
 #pot{
-   
+   margin-top: 2%;
     margin-bottom: gray solid 50px;
-    padding-left: 45%;
+    padding-left: 46%;
     
 }
+#lot-btn{
+    padding-top: 5%;
+}
 .another-button{
+    padding-top: 5%;
     text-decoration: none;
-    background-color: orange;
+    background-color: brown;
     padding: 10px 40px;
     text-align: center;
 
     
     border-radius: 5px;
 }
+.potato-a{
+
+    margin-top: 5%;
+    text-align: center;
+
+}
 .link-button{
     text-decoration: none;
-    background-color: orange;
+    background-color: brown;
     padding: 10px 40px;
     texy-align: center;
     
     border-radius: 5px;
+}
+.con-button{
+
+    text-decoration: none;
+    background-color: lightseagreen;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+#cribe-id{
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
 }
 #what-for{
     border: brown solid 5px;
@@ -110,18 +150,7 @@ h1{
     
 
 }
-.another-width{
-    box-shadow: 10px 10px 40px gray;
-    margin-left: 5%;
-    margin-right: 0%;
-    background-color: lightgoldenrodyellow;
-    text-align: center;
-    border: 1px solid gray;
-    width: 400px;
-    height: 300px;
-    padding-top: 30px;
-    
-}
+
 .food-icon{
     width: 40px;
     
@@ -137,4 +166,66 @@ h1{
 }
 #family-repo{
     background-color: lightpink;
+}
+.hope-us{
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#se-image{
+    height: 70%;
+    width: 45%;
+    padding-top: 10%;
+}
+.my-update{
+    padding-top: 10%;
+    text-align: center;
+}
+.only-hope{
+    padding-top: 5%;
+}
+.another-width{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 0%;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border: 1px solid gray;
+    width: 400px;
+    height: 300px;
+    padding-top: 30px;
+    
+}
+.under-io{
+    padding-top: 5%;
+    padding-left: 30%;
+   
+    
+
+}
+.again-so{
+
+
+    background-color: lightseagreen;
+    border: 1px solid gray;
+    width: 700px;
+    height: 150px;
+    text-align: center;
+    
+
+
+
+}
+.another-div{
+    margin-top: 60px;
+}
+footer{
+    
+    text-align: center;
+    border: 2px solid gray;
+    height: 150px;
+    background-color: black;
+}
+#footer-top{
+    padding-top: 2%;
 }
