@@ -104,6 +104,37 @@ h1{
     margin-bottom: 150px;
 }
 .half-width{
-    width: 33%;
-    padding-left: 35%;
+    width: 50%;
+    padding-left: 25%;
+    height: 80%;
+    
+
+}
+.another-width{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 0%;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    border: 1px solid gray;
+    width: 400px;
+    height: 300px;
+    padding-top: 30px;
+    
+}
+.food-icon{
+    width: 40px;
+    
+}
+.family-icon{
+    width: 40px;
+}
+.edu-icon{
+    width: 40px;
+}
+#edu-repo{
+    background-color: lightcoral;
+}
+#family-repo{
+    background-color: lightpink;
 }
