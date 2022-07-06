@@ -1,0 +1,109 @@
+
+
+
+
+.background-image{
+
+    
+    background-image: url(images/Donations001.jpg);
+    
+    width: 100%;
+    
+   background-size: 100% 130%;
+    background-repeat: no-repeat;
+    
+   
+
+    text-align: center;
+   
+
+}
+body{
+    font-family: 'Nunito', sans-serif;
+}
+h2{
+    font-size: 50px;
+}
+h1{
+    font-size: 60px;
+    color: white;
+   
+}
+
+.box-office
+{
+    text-align: center;
+    display: flex;
+    font-size: 20px;
+    padding-left: 35%;
+    padding-right: 35%;
+   
+   
+   
+    justify-content: space-evenly;
+ 
+}
+.border-line{
+    border: rgb(128, 128, 128) solid 5px;
+    background-color: rgb(128, 128, 128);
+}
+
+.another-id{
+    color: rosybrown;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#thousand-tk{
+    box-sizing: border-box;
+    width: 5%;
+    margin: 10px 10px 10px 10px;
+
+}
+.donate-now{
+    color: black;
+    text-align: center;
+}
+.thousand-copy{
+    height: 10%;
+    width: 5%;
+    border: gray solid 5px;
+
+}
+
+
+#pot{
+   
+    margin-bottom: gray solid 50px;
+    padding-left: 45%;
+    
+}
+.another-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    text-align: center;
+
+    
+    border-radius: 5px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    texy-align: center;
+    
+    border-radius: 5px;
+}
+#what-for{
+    border: brown solid 5px;
+}
+
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 33%;
+    padding-left: 35%;
+}
